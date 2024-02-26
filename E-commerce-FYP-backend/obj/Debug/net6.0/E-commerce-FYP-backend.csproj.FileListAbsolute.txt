@@ -1,0 +1,308 @@
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\appsettings.Development.json
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\appsettings.json
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.exe
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.deps.json
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.runtimeconfig.json
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.pdb
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.csproj.AssemblyReference.cache
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.AssemblyInfoInputs.cache
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.AssemblyInfo.cs
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.csproj.CoreCompileInputs.cache
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.MvcApplicationPartsAssemblyInfo.cs
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.MvcApplicationPartsAssemblyInfo.cache
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.E-commerce-FYP-backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.E-commerce-FYP-backend.props
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce-FYP-backend.props
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.E-commerce-FYP-backend.props
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets.pack.json
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets.build.json
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets.development.json
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\scopedcss\bundle\E-commerce-FYP-backend.styles.css
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.csproj.CopyComplete
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\refint\E-commerce-FYP-backend.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.pdb
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.genruntimeconfig.cache
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\ref\E-commerce-FYP-backend.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Azure.Core.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Azure.Identity.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Humanizer.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.CodeDom.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Memory.Data.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Text.Json.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Web.Cors.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Web.Http.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Web.Http.Cors.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\React JS\E-commerce-FYP-backend\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\appsettings.Development.json
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\appsettings.json
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.exe
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.deps.json
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.runtimeconfig.json
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.pdb
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Azure.Core.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Azure.Identity.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Humanizer.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Web.Cors.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Web.Http.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Web.Http.Cors.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.CodeDom.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Memory.Data.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Text.Json.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.csproj.AssemblyReference.cache
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.AssemblyInfoInputs.cache
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.AssemblyInfo.cs
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.csproj.CoreCompileInputs.cache
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.MvcApplicationPartsAssemblyInfo.cs
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.MvcApplicationPartsAssemblyInfo.cache
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.E-commerce-FYP-backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.E-commerce-FYP-backend.props
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce-FYP-backend.props
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.E-commerce-FYP-backend.props
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets.pack.json
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets.build.json
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets.development.json
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\scopedcss\bundle\E-commerce-FYP-backend.styles.css
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.csproj.CopyComplete
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\refint\E-commerce-FYP-backend.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.pdb
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.genruntimeconfig.cache
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\ref\E-commerce-FYP-backend.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\React JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\appsettings.Development.json
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\appsettings.json
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.exe
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.deps.json
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.runtimeconfig.json
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\E-commerce-FYP-backend.pdb
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Azure.Core.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Azure.Identity.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Humanizer.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Web.Cors.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Web.Http.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Web.Http.Cors.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.CodeDom.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Memory.Data.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Text.Json.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.csproj.AssemblyReference.cache
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.AssemblyInfoInputs.cache
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.AssemblyInfo.cs
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.csproj.CoreCompileInputs.cache
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.MvcApplicationPartsAssemblyInfo.cs
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.MvcApplicationPartsAssemblyInfo.cache
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.E-commerce-FYP-backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.E-commerce-FYP-backend.props
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce-FYP-backend.props
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.E-commerce-FYP-backend.props
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets.pack.json
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets.build.json
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\staticwebassets.development.json
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\scopedcss\bundle\E-commerce-FYP-backend.styles.css
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.csproj.CopyComplete
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\refint\E-commerce-FYP-backend.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.pdb
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\E-commerce-FYP-backend.genruntimeconfig.cache
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\obj\Debug\net6.0\ref\E-commerce-FYP-backend.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Scrutor.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\HtmlAgilityPack.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\FSharp.Core.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\ScrapySharp.Core.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\ScrapySharp.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\en\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+E:\React-JS\E-commerce-FYP\E-commerce-FYP-backend\E-commerce-FYP-backend\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
